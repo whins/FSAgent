@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FSAgent.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sip_server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.10.10.1</Value>
+    </Setting>
+    <Setting Name="sip_port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5070</Value>
+    </Setting>
+    <Setting Name="sip_user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1019</Value>
+    </Setting>
+    <Setting Name="sip_password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">it-sfera.fs</Value>
+    </Setting>
+    <Setting Name="start_with_credentials" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
